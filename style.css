@@ -1,0 +1,95 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.header img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.section img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1, h2, h3 {
+    color: #70ace4;
+}
+
+p {
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+.contact-info {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.contact-info p {
+    margin: 0;
+}
+
+body {
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #000000; 
+    padding: 20px;
+}
+.integrantes {
+    margin-bottom: 40px;
+}
+
+.integrante {
+    margin-bottom: 20px;
+    padding: 10px; 
+    border: 1px solid #000000; 
+    border-radius: 10px; 
+    background-color: #363636; 
+    text-align: center;
+}
+
+.integrante-img {
+text-align: center;
+    max-width: 150px;
+    height: auto;
+    display: block; 
+    margin: 0 auto 10px auto;
+}
+.canciones {
+    text-align: left;
+        max-width: 1275px;
+        height: auto;
+        display: block; 
+        margin-bottom: 10px; 
+    }
+}
+h10{
+    color: rgb(99, 191, 219);
+    text-align: left;
+    font-size: 20px;
+}
